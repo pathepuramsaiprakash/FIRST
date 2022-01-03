@@ -1,3 +1,3 @@
 import os
-print("this is django python scripts")
+print("this is django python iiscripts")
 
